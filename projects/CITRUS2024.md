@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Influenza.jpg
 title: "Detecting Patterns and Trends of Influenza A in the USA"
 date: 2024-07-26
 published: true
