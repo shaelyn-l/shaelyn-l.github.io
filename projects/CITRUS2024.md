@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/flu
+image: img/Influenza.png
 title: "Detecting Patterns and Trends of Influenza A in the USA"
 date: 2024-07-26
 published: true
