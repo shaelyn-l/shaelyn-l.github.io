@@ -11,7 +11,8 @@ labels:
   - About Me
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/internet.jpg">
+<img width="350px" class="rounded float-start pe-4" src="../img/internet.jpg">
+
 
 	For many people around the world, the years 2020 through 2022 are remembered as the infamous years of the COVID-19 lockdown and pandemic. The world was drawn to an abrupt halt as the illness spread in ways no one had ever imagined. It was undoubtedly a time of hardship and solitude for many, my family and I included. Despite the turmoil faced, it allowed for a time of reflection and growth for many in unexpected ways. Prior to 2020, I was never sure what I wanted to study when I went off to college. However, the lockdown, and specifically having to switch from in-person to online school for a large portion of my high school experience, gave me an unprecedented clarity of what I wanted to do with my life. With the sudden increase of technology use in the classroom (e.g., Zoom classes and online assignments), and using technology in my free time to unwind, I became increasingly curious about the inner workings of the technology I had become so familiar with in my day to day life.
  
