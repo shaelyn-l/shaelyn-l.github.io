@@ -122,43 +122,56 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Leeward Community College",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Volunteer",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "summary": "\",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Assisted with organizing the Great Teachers event hosted by LCC",
+        "Contacted and communicated with LCC staff"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Provost Scholar",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "A scholarship awarded to incoming freshmen to recognize and celebrate the academic strengths and demonstrated community impact of students who enroll at UH Mānoa the semester after the completion of their high school diploma. Student must be full-time and maintain a 3.0 GPA."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Inaugural Lau Maiʻa Scholar for Native Hawaiians in Tech",
+      "date": "2022-Present",
+      "awarder": "Purple Maiʻa",
+      "summary": "Awarded to graduating high school seniors who are attending a 4-year college and majoring in Computer Science, Engineering, Business or Entrepreneurship and are committed to serving the ʻāina, kaiāulu, lāhui."
+    },
+    {
+      "title": "CNS Native Hawaiian Scholarship",
+      "date": "2024-Present",
+      "awarder": "College of Natural Science at the University of Hawaii at Manoa",
+      "summary": "Awarded to Native Hawaiian students studying in any discipline in the College of Natural Sciences. Student must be full-time and maintain a 3.0 GPA."
+    },
+    {
+      "title": "Ka’i Lanakila Scholarship ",
+      "date": "2023-Present",
+      "awarder": "Kamehameha Schools",
+      "summary": "Awarded to students pursuing a Bachelor’s degree, Associate’s degree, or a
+Certificate through an eligible program as identified by Kamehameha Schools. Student must be full-time and maintain a 3.0 GPA."
+    },
+    {
+      "title": "Lela Robinson Brewer Award",
+      "date": "2016-2017",
+      "awarder": "Kamehameha Schools",
+      "summary": "Award is presented by each teacher to the most outstanding student in their
+class for the school year based on academic performance and attitude."
+    },
+    {
+      "title": "Ka Lei o ka Lanakila",
+      "date": "2017-2018",
+      "awarder": "Kamehameha Schools",
+      "summary": "Award is presented to the top 10% of students in the grade level."
     }
   ],
   "references": [
