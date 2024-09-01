@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/bank/bank.png
 title: "Banking Record Tracker"
 date: 2023-10-26
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A banking system record tracker that I developed for ICS 212."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/bank/bank1.png">
 
 This project simulates a banking system record tracker that I developed in my ICS 212 class. When run, the program prompts the user with a welcome message, giving the rundown of how the user can interact with the system. You can add, delete, or find a specific record or you can print all the records entered in the database so far. There is also an option to quit the program and if the user exits and decides to rerun the executable, all records will be remembered from the prior run. The program tells the user that they are able to access any of these commands by entering specific keywords, however, the code also allows a command to be called if a command is only partially entered. For example, if the user wants to select the ‘find’ option but only enters ‘fi’, the command will still run and all the necessary follow up questions will execute. 
 
