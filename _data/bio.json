@@ -42,7 +42,7 @@
     },
     {
       "institution": "Kamehameha Schools Kapalama, Honolulu, HI",
-      "area": "Computer Science in the Data Science Track (expected Spring, 2026)",
+      "area": "",
       "studyType": "High School Diploma with Academic Honors",
       "startDate": "2018-08-07",
       "endDate": "2022-05-29",
@@ -52,22 +52,25 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii Office of Indigenous Knowledge and Innovation",
+      "position": "Indigenous Data Hub Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-01-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assist in designing and developing hub research projects related to the Indigenous Data Hubs",
+        "Attend and participate in weekly meetings and development workshops",
+        "Meet with and discuss design plans with community partners",
+        "Design and brainstorm different iterations of the research projects",
+        "Present in an Indigenous Data Hub symposium at the end of each semester"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
+      "company": "University of Hawaii at Manoa College of Engineering",
+      "position": "Student Assistant",
+      "website": "",
+      "startDate": "2023-01",
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
