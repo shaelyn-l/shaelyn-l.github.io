@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sinkhole-viz/sinkhole-cover.png
+image: img/sinkhole-viz/sinkhole-cover.jpg
 title: "Sinkhole Data Visualization"
 date: 2024-09-27
 published: true
@@ -14,9 +14,9 @@ summary: "While working as an Indigenous Data Hub Assistant, I was able to contr
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/sinkhole-viz/sinkhole.png" class="img-thumbnail" >
-  <img width="400px" src="../img/sinkhole-viz/unity.png" class="img-thumbnail" >
-  <img width="400px" src="../img/sinkhole-viz/projector.png" class="img-thumbnail" >
+  <img width="400px" src="../img/sinkhole-viz/sinkhole.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/sinkhole-viz/unity.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/sinkhole-viz/projector.jpg" class="img-thumbnail" >
 </div>
 
 The Office of Indigenous Knowledge and Innovation at the University of Hawaii has a fellowship program where each of the fellows gets partnered with a faculty member or community partner to develop an application that combines technology development and indigenous practices. The program is based out of the Create(X) Lab at the University of Hawaii at West Oahu campus, whose sister lab is the LAVA Lab at the University of Hawaii at Manoa. 
