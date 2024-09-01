@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Visual Studio Code", "Git/GitHub", "Jupyter Notebooks", "Eclipse" ]
+      "keywords": [ "MacOS", "Visual Studio Code", "Git/GitHub", "Jupyter Notebooks", "Eclipse", "Vim" ]
     }
   ],
   "education": [
@@ -37,6 +37,15 @@
       "studyType": "B.S.",
       "startDate": "2022-08-22",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kamehameha Schools Kapalama, Honolulu, HI",
+      "area": "Computer Science in the Data Science Track (expected Spring, 2026)",
+      "studyType": "High School Diploma with Academic Honors",
+      "startDate": "2018-08-07",
+      "endDate": "2022-05-29",
       "courses": [
       ]
     }
