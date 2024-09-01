@@ -18,6 +18,17 @@ summary: "In the summer of 2024, I was a part of the CITRUS Summer 2024 program 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-My project, Detecting Patterns and Trends of Influenza A in the USA, was developed under the mentorship of the CyberInfrastructure TRaining for Undergraduates in Summer (CITRUS) program at the University of Hawaii. It allowed me a research opportunity in a REU-style immersion to develop skills in CyberInfrastructure with a climate-based research project. 
+My project, Detecting Patterns and Trends of Influenza A in the USA, was developed under the mentorship of the CyberInfrastructure TRaining for Undergraduates in Summer (CITRUS) program at the University of Hawaii. CITRUS is a research opportunity in a REU-style immersion to develop skills in CyberInfrastructure with a climate-based research project. The program entailed learning and developing data science skills which would then be applied as each mentee carried out their own research project surrounding a topic and data set of their choosing.
 
-My topic focused on the interminglings of health and climate which lead me towards wanting to apply data science techniques to identify patterns and trends of Influenza A in the USA. The research question I based my findings around was, "Are there any consistent patterns in the timing and intensity of influenza A seasons?". To which I then cleaned, graphed, and applied various statistical tests (such as chi-squared and Kruskal-Wallis) to answer this question.
+My topic focused on the intermingling of health and climate which led me towards wanting to apply data science techniques to identify patterns and trends of Influenza A in the USA. The research question I based my findings around was, “Are there any consistent patterns in the timing and intensity of influenza A seasons?”. I was able to find a dataset from the World Health Organization which had data on Influenza A cases in the USA from 1997 to 2024. I then cleaned the data, which included dropping columns and rows that were not relevant to this research question and filling in missing values. I then graphed my findings to provide a visual understanding of the data and applied various statistical tests (such as chi-squared and Kruskal-Wallis) to gain deeper insight to my question.
+
+Here is a segment of my code that plotted the normalized data of Influenza A cases for the corresponding graph above:
+```cpp
+ax1.plot(merged_data['ISO_WEEK'], merged_data['INF_A_normalized'], marker='o', color='b', label='Normalized Average INF_A')
+ax1.set_xlabel('ISO WEEK')
+ax1.set_ylabel('Normalized Average INF_A Cases', color='b')
+ax1.tick_params(axis='y', labelcolor='b')
+```
+
+For more information regarding this project, you can see my final presentation [here](https://docs.google.com/presentation/d/1tGAJVMcuSHLmi7Si2j87I2ENSzEC9S1xj7CoL6TqFCM/edit?usp=sharing).
+
