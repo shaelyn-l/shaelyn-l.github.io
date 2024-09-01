@@ -67,15 +67,56 @@
       ]
     },
     {
+      "company": "Hawaii Data Science Institute",
+      "position": "CITRUS Research Intern",
+      "website": "",
+      "startDate": "2024-05-22",
+      "endDate": "2024-06-28",
+      "summary": "",
+      "highlights": [
+        "Independently develop techincal data science coding skills",
+        "Meet with graduate mentors and discuss progression of individual research project",
+        "Researched project topic and applied data science skills to deepen understanding",
+        "Researched appropriate datasets regarding decided topic to then be cleaned and processed",
+        "Presented research findings at the conclusion of the program"
+      ]
+    },
+    {
       "company": "University of Hawaii at Manoa College of Engineering",
       "position": "Student Assistant",
       "website": "",
       "startDate": "2023-01",
-      "endDate": "2016-03-15",
+      "endDate": "2023-08",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted the College of Engineering in the Dean’s office with preparing and working events for the College",
+        "Answered phone calls and questions about the college, assisted office staff with updating electronic files, processed mail, and provided customer service"
+      ]
+    },
+    {
+      "company": "Kamehameha Schools Kapalama",
+      "position": "Webpage Designer Intern",
+      "website": "https://blogs.ksbe.edu/khsinternships/",
+      "startDate": "2023-05",
+      "endDate": "2023-06",
+      "summary": "",
+      "highlights": [
+        "Worked with IT staff and Internship Coordinator to redesign the Kamehameha Internships website and created an Instagram page while upholding school IT safety protocols",
+        "Worked independently to meet deadlines in a timely manner and complete tasks"
+      ]
+    },
+    {
+      "company": "Wahine Coder",
+      "position": "Office/Computer Science Summer Intern",
+      "website": "",
+      "startDate": "2021-06",
+      "endDate": "2021-07",
+      "summary": "",
+      "highlights": [
+        "Created graphics, social media posts, and blog posts for the company to upload on their website",
+        "Worked independently to research content and design a functioning website",
+        "Attended client meetings and took minutes",
+        "Performed other office tasks as assigned"
       ]
     }
   ],
