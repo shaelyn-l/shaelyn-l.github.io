@@ -171,6 +171,19 @@
   ],
   "awards": [
     {
+      "title": "CNS Native Hawaiian Scholarship",
+      "date": "2024-Present",
+      "awarder": "College of Natural Science at the University of Hawaii at Manoa",
+      "summary": "Awarded to Native Hawaiian students studying in any discipline in the College of Natural Sciences. Student must be full-time and maintain a 3.0 GPA."
+    },
+    {
+      "title": "Ka’i Lanakila Scholarship ",
+      "date": "2023-Present",
+      "awarder": "Kamehameha Schools",
+      "summary": "Awarded to students pursuing a Bachelor’s degree, Associate’s degree, or a
+Certificate through an eligible program as identified by Kamehameha Schools. Student must be full-time and maintain a 3.0 GPA."
+    },
+    {
       "title": "Dean's List",
       "date": "2022-Present",
       "awarder": "University of Hawaii at Manoa",
@@ -188,18 +201,11 @@
       "awarder": "Purple Maiʻa",
       "summary": "Awarded to graduating high school seniors who are attending a 4-year college and majoring in Computer Science, Engineering, Business or Entrepreneurship and are committed to serving the ʻāina, kaiāulu, lāhui."
     },
-    {
-      "title": "CNS Native Hawaiian Scholarship",
-      "date": "2024-Present",
-      "awarder": "College of Natural Science at the University of Hawaii at Manoa",
-      "summary": "Awarded to Native Hawaiian students studying in any discipline in the College of Natural Sciences. Student must be full-time and maintain a 3.0 GPA."
-    },
-    {
-      "title": "Ka’i Lanakila Scholarship ",
-      "date": "2023-Present",
+{
+      "title": "Ka Lei o ka Lanakila",
+      "date": "2017-2018",
       "awarder": "Kamehameha Schools",
-      "summary": "Awarded to students pursuing a Bachelor’s degree, Associate’s degree, or a
-Certificate through an eligible program as identified by Kamehameha Schools. Student must be full-time and maintain a 3.0 GPA."
+      "summary": "Award is presented to the top 10% of students in the grade level."
     },
     {
       "title": "Lela Robinson Brewer Award",
@@ -207,13 +213,8 @@ Certificate through an eligible program as identified by Kamehameha Schools. Stu
       "awarder": "Kamehameha Schools",
       "summary": "Award is presented by each teacher to the most outstanding student in their
 class for the school year based on academic performance and attitude."
-    },
-    {
-      "title": "Ka Lei o ka Lanakila",
-      "date": "2017-2018",
-      "awarder": "Kamehameha Schools",
-      "summary": "Award is presented to the top 10% of students in the grade level."
     }
+    
   ],
   "references": [
     {
