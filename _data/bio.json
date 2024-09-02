@@ -132,9 +132,39 @@
         "Assisted with organizing the Great Teachers event hosted by LCC",
         "Contacted and communicated with LCC staff"
       ]
+    },
+    {
+      "organization": "University of Hawaii Manoa Scholars Club",
+      "website": "",
+      "position": "Manoa Scholars Club Member",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": [
+        "Participated in charity and volunteer events for the community",
+        "Participated in group meetings and recreational events"
+      ]
+    },
+    {
+      "organization": "Native Hawaiian Science & Engineering Mentor Program",
+      "website": "",
+      "position": "NHSEMP Member",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": [
+        "Participated in career development workshops",
+        "Reflected on education progress through mandatory essay reflections and discussions with professors"
+      ]
     }
   ],
   "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students who maintain a minimum cumulative GPA of 3.5, have earned 12 or more credits in academic coursework, and not recieved a W, I, F, or NC for the semester."
+    },
     {
       "title": "Provost Scholar",
       "date": "2022-Present",
