@@ -15,8 +15,8 @@ summary: "While working as an Indigenous Data Hub Assistant, I was able to contr
 
 <div class="text-center p-4">
   <img width="200px" src="../img/sinkhole/sinkhole.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/sinkhole-viz/unity.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/sinkhole-viz/projector.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/sinkhole/unity.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/sinkhole/projector.jpg" class="img-thumbnail" >
 </div>
 
 The Office of Indigenous Knowledge and Innovation at the University of Hawaii has a fellowship program where each of the fellows gets partnered with a faculty member or community partner to develop an application that combines technology development and indigenous practices. The program is based out of the Create(X) Lab at the University of Hawaii at West Oahu campus, whose sister lab is the LAVA Lab at the University of Hawaii at Manoa. 
