@@ -14,7 +14,6 @@ summary: "While working as an Indigenous Data Hub Assistant, I was able to contr
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/sinkhole/sinkhole.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/sinkhole/unity.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/sinkhole/projector.png" class="img-thumbnail" >
 </div>
