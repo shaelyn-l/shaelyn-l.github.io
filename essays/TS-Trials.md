@@ -13,7 +13,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/internet.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/improvement.jpg">
 
 When I first found out that I would have to learn TypeScript for my Intro to Software Engineering class at the University of Hawaii at Manoa, I was hit instantly with a wave of stress. Prior to my professor’s mention of the language, I had never even heard of TypeScript, and now I was being tasked with learning it in the first week of school. Not to mention, this language was going to be the building block for all the course work to follow, and in an ever-larger scope, it is going to be a necessary skill to have when I enter the workforce. Needless to say, I was apprehensive about embarking on this journey to teach myself TypeScript in a week using a FreeCodeCamp link my professor provided. However, I knew that worrying about whether I would be able to pick it up or not would do me no good, so I started chugging along at the 150 problems and their corresponding readings assigned to us.
 
