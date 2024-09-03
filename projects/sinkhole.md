@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sinkhole/cover.jpg
+image: img/sinkhole/cover.png
 title: "Sinkhole Data Visualization"
 date: 2024-09-27
 published: true
