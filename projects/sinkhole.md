@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sinkhole-viz/cover.jpg
+image: img/sinkhole/cover.jpg
 title: "Sinkhole Data Visualization"
 date: 2024-09-27
 published: true
@@ -14,7 +14,7 @@ summary: "While working as an Indigenous Data Hub Assistant, I was able to contr
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/sinkhole-viz/sinkhole.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/sinkhole/sinkhole.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/sinkhole-viz/unity.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/sinkhole-viz/projector.jpg" class="img-thumbnail" >
 </div>
