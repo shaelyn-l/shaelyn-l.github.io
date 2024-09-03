@@ -21,6 +21,8 @@ My project, Detecting Patterns and Trends of Influenza A in the USA, was develop
 
 My topic focused on the intermingling of health and climate which led me towards wanting to apply data science techniques to identify patterns and trends of Influenza A in the USA. The research question I based my findings around was, “Are there any consistent patterns in the timing and intensity of influenza A seasons?”. I was able to find a dataset from the World Health Organization which had data on Influenza A cases in the USA from 1997 to 2024. I then cleaned the data, which included dropping columns and rows that were not relevant to this research question and filling in missing values. I then graphed my findings to provide a visual understanding of the data and applied various statistical tests (such as chi-squared and Kruskal-Wallis) to gain deeper insight to my question.
 
+This project was completed by myself with the guidance of my graduate mentors that would be done through daily check-ins to see the progress of my research project. It gave me an opportunity to refine my data science coding skills and gave me an opportunity to apply research techniques. To be eligible to participate in this program I had to acquire a CITI conduct of research certificate that shows I understand the ethics behind researching. This program also let me develop my communication skills which were necessary when it came to sharing my findings through a final presentation conducted at the end of the program.
+
 Here is a portion of my code that was used to plotted the graph above:
 ```cpp
 # plot the average INF_A
@@ -35,6 +37,7 @@ Here is a portion of my code that was used to plotted the graph above:
   ax2.set_ylabel('Average SPEC_PROCESSED_NB', color='r')
   ax2.tick_params(axis='y', labelcolor='r')
 ```
+To see more of my code, you can click [here](https://github.com/shaelyn-l/CITRUS-2024.git) to go to the project repository.
 
 For more information regarding this project, you can see my final presentation [here](https://docs.google.com/presentation/d/1tGAJVMcuSHLmi7Si2j87I2ENSzEC9S1xj7CoL6TqFCM/edit?usp=sharing).
 
