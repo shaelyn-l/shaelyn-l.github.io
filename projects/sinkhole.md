@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/sinkhole/cover.png
 title: "Sinkhole Data Visualization"
-date: 2024-09-27
+date: 2024-08-27
 published: true
 labels:
   - Data Science
