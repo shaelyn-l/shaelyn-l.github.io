@@ -12,7 +12,7 @@ labels:
   - Open Source Software
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/improvement.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/smart-questions/smart.jpg">
 
 A Smart question, as described in Eric Steven Raymond’s essay entitled *How to Ask Questions the Smart Way*, is a question phrased in such a way that demonstrates respect and consideration for the responder’s time. In doing so, it is believed that you will be led to more efficient, effective, and respectful answers in return. When interacting with online forums or emailing lists to seek help from others, it is important to remember that many of the members in that community are offering their help voluntarily; thus, being able to ask questions in a smart way can be more beneficial for those answering the questions and be more helpful in receiving an answer from those asking. A smart question constitutes many factors, including but not limited to, using grammatically and correctly spelled language, showing courtesy in the way you phrase your question, being specific about your question, and putting in effort to show that you attempted to find a solution first, while an unsmart question is essentially the inverse. It is believed that a smart question will lead to smart answers, while an unsmart question may not provide the results the original poster was seeking out. In this essay, I will delve into a few examples I have found of both a smart and unsmart question and see how they compare between the way in which they were asked, and how well they were received by the community, which in this case is StackOverflow.
 
