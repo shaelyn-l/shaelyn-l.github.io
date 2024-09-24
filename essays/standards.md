@@ -12,7 +12,7 @@ labels:
   - Group Work
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/standards.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/standards.png">
 
 One thing I have always found to be interesting about computer science is how much it evolves over time. As a study rooted in everchanging technology, the way coding is done now compared to 50 years ago is vastly different. With drastically advancing technology at our fingertips, the possibilities of what can be accomplished using computer science drastically expand as well. Not only do possibilities change with the times, but also the procedures and expectations that come along with coding and their standards. In the way that coding used to be done in a very cramped style to optimize memory and storage, coding has now evolved with the advancement of the computers we use to prioritize style over memory and storage efficiency. 
 
