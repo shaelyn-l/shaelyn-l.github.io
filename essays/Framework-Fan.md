@@ -25,6 +25,6 @@ Currently where I stand as a coder, I prefer using a framework since I know my d
 
 In conclusion, I understand the limitations and frustrations web developers have when it comes to frameworks. However, to many computer scientists, such as myself, who may not specialize in web development but still want a sleek, customized way of showing off their work, frameworks offer a solid foundation to create the necessary website. And with that I say, I am a fan of frameworks. 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-1">
-<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-2">
+<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-1.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-2.jpg">
 
