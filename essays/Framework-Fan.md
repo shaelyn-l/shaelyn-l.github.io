@@ -12,6 +12,10 @@ labels:
   - Software Engineering
 ---
 
+<img width="400px" class="rounded float-start pe-4" src="../img/bootstrap-1.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/bootstrap-2.jpg">
+  On of the practice websites I recreated to practice Bootstrap 5
+
 According to a data report by [Reboot](https://www.rebootonline.com/website-statistics/), as of 2024 there are about 1.14 billion websites in the world, proving that the existence and usage of websites is far spread to every corner of the world. Websites and user interfaces are things that people interact with daily.  With an example being the common experience of finding a new restaurant through your social media feed, then booking a ride on a rideshare app to get to the new spot, and leaving a review post-meal. This alone requires the use and visitation of three different UIs. UIs surround us, and the quality of a UI greatly affects the experience a user takes away from their interaction. UIs with clean, concise, and visually appealing designs tend to leave a positive impression opposed to those that are hectic and visually uninteresting. The use of frameworks is a quick and easy way to achieve an appealing UI.
 
 ## The Benefit of Bootstrap 5
@@ -23,8 +27,5 @@ While I am able to see the benefits of using a framework, I can also notice the 
 ## Frameworks Lay the Framework
 Currently where I stand as a coder, I prefer using a framework since I know my design skills as well as my HMTL and CSS skills are not to the point where I need total creative liberty. My primary interests within computer science are data science and data visualization, so truth be told, I’m not sure if my web development skills will ever get to a point where using no framework is more beneficial to me and my projects. However, going through this experience of UI design, web development, and coding using frameworks, HMTL, and CSS has allowed me to gain a deeper appreciation for those who do specialize within this part of the field. I can confidently say that after being exposed to the Bootstrap 5 framework, I feel I could make my own websites in a way that is appealing to the users. So far, I’ve already practiced using Bootstrap 5 to replicate numerous professional websites of different companies, albeit mines are not quite as refined as those I modeled my practice runs after. However, in my perspective, they look visually appealing enough to properly display any of my future projects I wish to share with the world. 
 
-In conclusion, I understand the limitations and frustrations web developers have when it comes to frameworks. However, to many computer scientists, such as myself, who may not specialize in web development but still want a sleek, customized way of showing off their work, frameworks offer a solid foundation to create the necessary website. And with that I say, I am a fan of frameworks. 
-
-<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-1.jpg">
-<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-2.jpg">
+In conclusion, I understand the limitations and frustrations web developers have when it comes to frameworks. However, to many computer scientists, such as myself, who may not specialize in web development but still want a sleek, customized way of showing off their work, frameworks offer a solid foundation to create the necessary website. And with that I say, I am a fan of frameworks.
 
