@@ -14,7 +14,6 @@ labels:
 
 <img width="400px" class="rounded float-start pe-4" src="../img/bootstrap-1.jpg">
 <img width="400px" class="rounded float-start pe-4" src="../img/bootstrap-2.jpg">
-  On of the practice websites I recreated to practice Bootstrap 5
 
 According to a data report by [Reboot](https://www.rebootonline.com/website-statistics/), as of 2024 there are about 1.14 billion websites in the world, proving that the existence and usage of websites is far spread to every corner of the world. Websites and user interfaces are things that people interact with daily.  With an example being the common experience of finding a new restaurant through your social media feed, then booking a ride on a rideshare app to get to the new spot, and leaving a review post-meal. This alone requires the use and visitation of three different UIs. UIs surround us, and the quality of a UI greatly affects the experience a user takes away from their interaction. UIs with clean, concise, and visually appealing designs tend to leave a positive impression opposed to those that are hectic and visually uninteresting. The use of frameworks is a quick and easy way to achieve an appealing UI.
 
