@@ -27,14 +27,6 @@ I am one of the co-designers and co-coders to this project along with my mentor 
 ## Public Highlights and Media Features
 Click [here](https://www.hawaii.edu/news/2024/09/30/student-projects-indigenous-contemporary-sciences/) to read an article about the fellowship program I am apart of.
 
-My Presentation on the first iteration of the Sinkhole Visualization Project
-<video width="600" controls>
-  <source src="https://drive.google.com/drive/u/2/folders/1A3WUBMbFZMoUclt4PVP2iRPs7Uo2Kayx" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Click [here](https://drive.google.com/drive/u/2/folders/1A3WUBMbFZMoUclt4PVP2iRPs7Uo2Kayx) to watch my Presentation on the first iteration of the Sinkhole Visualization Project.
 
-Interview with Hawaii News Now
-<video width="600" controls>
-  <source src="https://www.youtube.com/watch?v=UZyeq6Qis48" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Click [here](https://www.youtube.com/watch?v=UZyeq6Qis48) to see my interview with Hawaii News Now.
