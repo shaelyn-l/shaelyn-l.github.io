@@ -23,3 +23,18 @@ The Office of Indigenous Knowledge and Innovation at the University of Hawaii ha
 Starting in January of 2024, I was accepted into the program and paired with community member, Ulukoa Duhaylonsod, who has been a part of restoring a Hawaiian historical site that was once used for sinkhole agriculture. The program has partnered with Ulukoa to gain understanding of this area and the practice that comes with it, in order to develop a project that can be used for presentations to educate others as well as raise awareness and funding for the sinkhole site. Using the Makawalu VE developed in the LAVA Lab, we are able to modify the template provided and reframe it to fit the scope of this project. The goal is to create a touchscreen UI that works in tandem with wall and table projectors to display data regarding the sinkholes for easy presentation. The program uses the third party app, Epicollect5, for Ulukoa and others to use when collecting data in the field. This can then be exported as a json file which can be uploaded into the project for the corresponding data points to then be displayed. This is a project being continuously worked on with multiple iterations in development.
 
 I am one of the co-designers and co-coders to this project along with my mentor Kari Noe. I have been involved in the design and development for this project which includes: going out into the field to discuss effective design implementations with those who will use this application, drafting multiple possible designs for data visualization, adjusting and adding to the the Makawalu VE code, and logging design notes as the project progresses. Some of the key skills I have gained from this project so far are UI/UX design, iterative and equitable design, project documentation, and familiarity with C# and Unity.
+
+## Public Highlights and Media Features
+Click [here](https://www.hawaii.edu/news/2024/09/30/student-projects-indigenous-contemporary-sciences/) to read an article about the fellowship program I am apart of.
+
+My Presentation on the first iteration of the Sinkhole Visualization Project
+<video width="600" controls>
+  <source src="https://drive.google.com/drive/u/2/folders/1A3WUBMbFZMoUclt4PVP2iRPs7Uo2Kayx" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Interview with Hawaii News Now
+<video width="600" controls>
+  <source src="https://www.youtube.com/watch?v=UZyeq6Qis48" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
