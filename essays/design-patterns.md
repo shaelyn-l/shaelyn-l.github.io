@@ -12,7 +12,7 @@ labels:
   - Problem Solving
 ---
 
-<img class="rounded float-start pe-4" src="../img/design-patterns.png">
+<img src="../img/design-patterns.png">
 
 # Designing a Solution
 Have you ever been working on a project and come across a problem that makes you say,
