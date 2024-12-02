@@ -28,6 +28,6 @@ I am one of the co-designers and co-coders to this project along with my mentor 
 Click [here](https://www.hawaii.edu/news/2024/09/30/student-projects-indigenous-contemporary-sciences/) to read an article about the fellowship program I am apart of.
 
 Watch my Presentation on the first iteration of the Sinkhole Visualization Project below:
-[![Alt text](../img/sinkhole/hoike.png)](https://www.youtube.com/watch?v=fizM-ZxzyD0)
+[![Alt text](../img/sinkhole/hoike.png)](https://www.youtube.com/watch?v=fizM-ZxzyD0){ width=400px height=300px }
 
 Click [here](https://www.youtube.com/watch?v=UZyeq6Qis48) to see my interview with Hawaii News Now.
