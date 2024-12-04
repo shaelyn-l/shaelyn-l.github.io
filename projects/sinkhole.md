@@ -37,22 +37,22 @@ There are 3 main kālua to consider when entering this space:
 
 ## Contributions to the Project
 The design process of this project follows an iterative framework, meaning throughout different project sprints, different tasks will be worked on and improved. Here are some of the contributions I helped with during our first project sprint:
-1. Data Collection Form
+1. **Data Collection Form**
 - What is it?
   - This component allows a user when out in the field to collect data regarding a sinkhole and its respective data. This is the form created with Epicollect5 that can then be downloaded and imported into the MakawaluVE.
 - Contributions
   - Created the form and worked closely with our community partners to refine the form layout and necessary data fields. Refinement of this feature required visiting the Kipuka, partaking in data collection, and taking notes on the user experience to make further improvements to this feature.
-2. Data Table Display Layout
+2. **Data Table Display Layout**
 - What is it?
   - This component is the design and layout of what the data table looks like when it is displayed. The purpose is for the data on each data entry to be displayed in a quick and visually easy to understand way. This is a feature we knew we needed to create and design because without it, there is no way to display the information gathered.
 - Contributions
   - Assisted with the creation of the first iteration design of the data table display layout and continues to work on it with the changes that will be made to the data collection form in the second iteration.
-3. Test Data
+3. **Test Data**
 - What is it?
   - This asset consists of data files that were necessary to reference when designing the Data Table Display Layout as well as the comparison feature. These data files consist of dummy data taken out in Kipuka o Kahinahina that are used as JSON files.
 - Contributions
   - Visited the Kipuka to partake in data collection for gathering dummy data that was then utilized during the design and implementation of the data visualization. Collection of the test data required using and testing the data collection form.
-4. Culture Component Text and Images
+4. **Culture Component Text and Images**
 - What is it?
   - This feature is made for the user to easily display cultural background information on the back projection, as well as other forms of relevant media, such as possible pictures and videos in the future.
 - Contributions
@@ -73,4 +73,7 @@ Watch my Presentation on the first iteration of the Sinkhole Visualization Proje
 </div>
 Click [here](https://www.youtube.com/watch?v=UZyeq6Qis48) to see my interview with Hawaii News Now.
 
+<div class="text-center p-4">
+<img width="400px" src="../img/sinkhole/conference.png" class="img-thumbnail" >
+</div>
 Click [here](https://youtu.be/7dA6LxMANoc?t=3189) to see me speak at the University of Hawaii at Manoa conference, *A Catalyst for Change: Indigenous Innovation at UH*.
