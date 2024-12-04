@@ -63,10 +63,12 @@ If you’re interested, here are some of the publications and presentations I ha
 
 Click [here](https://www.hawaii.edu/news/2024/09/30/student-projects-indigenous-contemporary-sciences/) to read an article about the fellowship program I am apart of.
 
-<img width="400px" src="../img/sinkhole/hoike.jpg" class="img-thumbnail" >
+<div class="text-center p-4">
+<img width="400px" src="../img/sinkhole/hoike.png" class="img-thumbnail" >
+</div>
 Watch my Presentation on the first iteration of the Sinkhole Visualization Project [here](https://www.youtube.com/watch?v=fizM-ZxzyD0)
 
-<img width="400px" src="../img/sinkhole/hnn.jpg" class="img-thumbnail" >
+<img width="400px" src="../img/sinkhole/hnn.png" class="img-thumbnail" >
 Click [here](https://www.youtube.com/watch?v=UZyeq6Qis48) to see my interview with Hawaii News Now.
 
 Click [here](https://youtu.be/7dA6LxMANoc?t=3189) to see me speak at the University of Hawaii at Manoa conference, *A Catalyst for Change: Indigenous Innovation at UH*.
