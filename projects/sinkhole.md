@@ -68,7 +68,9 @@ Click [here](https://www.hawaii.edu/news/2024/09/30/student-projects-indigenous-
 </div>
 Watch my Presentation on the first iteration of the Sinkhole Visualization Project [here](https://www.youtube.com/watch?v=fizM-ZxzyD0)
 
+<div class="text-center p-4">
 <img width="400px" src="../img/sinkhole/hnn.png" class="img-thumbnail" >
+</div>
 Click [here](https://www.youtube.com/watch?v=UZyeq6Qis48) to see my interview with Hawaii News Now.
 
 Click [here](https://youtu.be/7dA6LxMANoc?t=3189) to see me speak at the University of Hawaii at Manoa conference, *A Catalyst for Change: Indigenous Innovation at UH*.
