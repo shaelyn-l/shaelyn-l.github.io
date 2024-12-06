@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/aloha-archives/logo.png
+image: img/aloha-archives/aa.png
 title: "Aloha Archives"
 date: 2024
 published: true
