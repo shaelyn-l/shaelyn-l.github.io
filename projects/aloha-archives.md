@@ -18,6 +18,7 @@ summary: "Aloha Archives was developed as a competition entry to the 2024 Hawai�
 ---
 
 # All About Aloha Archives
+
 ## How did it Begin?
 Aloha Archives was a project originally constructed as a result of taking ICS 314, Software Engineering, the same time as the 2024 Hawaiʻi Annual Code Challenge was being hosted. One of the challenges presented for coders to take on was the [**Citizen Portal on Open Data**](https://hacc.hawaii.gov/wp-content/uploads/2024/10/ETS-Data-Challenge_2024.pdf) challenge presented by ETS. This challenge consisted of designing a new citizen portal to replace the current one in order to accommodate more citizens and their needs. Suggested solutions to this challenge largely consisted of creating and identifying citizen personas to make looking for appropriate datasets easier, as well as providing a means of data visualization to make understanding the data more accessible to those who may lack technical skills to process the data themselves. Overall, the focus of the challenge was to take the Hawaiʻi Open Data page and make it more user friendly for a diverse audience and not just data scientists or analysts.
 
