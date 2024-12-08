@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns: Timeless Blueprints"
+title: "AI Usage in Educational Environments"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-04
+date: 2024-12-16
 published: true
 labels:
-  - Design Patterns
+  - AI
   - Software Engineering
-  - Adaptability
-  - Problem Solving
+  - ChatGPT
+  - Education
 ---
 
 <div class="text-center p-4">
