@@ -66,7 +66,7 @@ Click [**here**](https://www.hawaii.edu/news/2024/09/30/student-projects-indigen
 <div class="text-center p-4">
 <img width="400px" src="../img/sinkhole/hoike.png" class="img-thumbnail" >
 </div>
-Watch my Presentation on the first iteration of the Sinkhole Visualization Project [here](https://www.youtube.com/watch?v=fizM-ZxzyD0)
+Watch my Presentation on the first iteration of the Sinkhole Visualization Project [**here**](https://www.youtube.com/watch?v=fizM-ZxzyD0)
 
 <div class="text-center p-4">
 <img width="400px" src="../img/sinkhole/hnn.png" class="img-thumbnail" >

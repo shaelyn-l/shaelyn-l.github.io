@@ -49,7 +49,7 @@ I created a scatter plot trying to show the relationship between influenza cases
 
 This project was completed by myself with the guidance of my graduate mentors that would be done through daily check-ins to see the progress of my research project. It gave me an opportunity to refine my data science coding skills and gave me an opportunity to apply research techniques. To be eligible to participate in this program I had to acquire a CITI conduct of research certificate that shows I understand the ethics behind researching. This program also let me develop my communication skills which were necessary when it came to sharing my findings through a final presentation conducted at the end of the program.
 
-To see more of my code, you can click [here](https://github.com/shaelyn-l/CITRUS-2024.git) to go to the project repository.
+To see more of my code, you can click [**here**](https://github.com/shaelyn-l/CITRUS-2024.git) to go to the project repository.
 
-For more information regarding this project, you can see my final presentation on this project [here](https://docs.google.com/presentation/d/1tGAJVMcuSHLmi7Si2j87I2ENSzEC9S1xj7CoL6TqFCM/edit?usp=sharing).
+For more information regarding this project, you can see my final presentation on this project [**here**](https://docs.google.com/presentation/d/1tGAJVMcuSHLmi7Si2j87I2ENSzEC9S1xj7CoL6TqFCM/edit?usp=sharing).
 
