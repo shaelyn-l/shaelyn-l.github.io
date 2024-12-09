@@ -4,7 +4,7 @@ type: essay
 title: "Framework Fan"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-07
-published: true
+published: false
 labels:
   - Bootstrap 5
   - Frameworks
