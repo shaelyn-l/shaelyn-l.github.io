@@ -4,7 +4,7 @@ type: project
 image: img/bank/bank.png
 title: "Banking Record Tracker"
 date: 2023-10-26
-published: true
+published: false
 labels:
   - C
   - C++
