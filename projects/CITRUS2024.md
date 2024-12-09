@@ -15,7 +15,7 @@ summary: "In the summer of 2024, I was a part of the CITRUS Summer 2024 program 
 # Project Overview
 <div class="text-center p-4">
   <img width="500px" src="../img/CITRUS/Presentation-Slide.jpg" class="img-thumbnail" >
-  <img width="500px" src="../img/CITRUS/research1.png" class="img-thumbnail" >
+  <img width="500px" src="../img/CITRUS/researchq.png" class="img-thumbnail" >
 </div>
 
 My project, Detecting Patterns and Trends of Influenza A in the USA, was developed under the mentorship of the CyberInfrastructure TRaining for Undergraduates in Summer (CITRUS) program at the University of Hawaii. CITRUS is a research opportunity in a REU-style immersion to develop skills in CyberInfrastructure with a climate-based research project. The program entailed learning and developing data science skills which would then be applied as each mentee carried out their own research project surrounding a topic and data set of their choosing.
