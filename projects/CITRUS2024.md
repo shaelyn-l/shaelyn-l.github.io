@@ -12,10 +12,10 @@ labels:
 summary: "In the summer of 2024, I was a part of the CITRUS Summer 2024 program which allowed me to develop my data science skills while researching a topic I was interested on."
 ---
 
-# Project Overlook
+# Project Overview
 <div class="text-center p-4">
-  <img width="400px" src="../img/CITRUS/Presentation-Slide.jpg" class="img-thumbnail" >
-  <img width="400px" src="../img/CITRUS/research1.png" class="img-thumbnail" >
+  <img width="500px" src="../img/CITRUS/Presentation-Slide.jpg" class="img-thumbnail" >
+  <img width="500px" src="../img/CITRUS/research1.png" class="img-thumbnail" >
 </div>
 
 My project, Detecting Patterns and Trends of Influenza A in the USA, was developed under the mentorship of the CyberInfrastructure TRaining for Undergraduates in Summer (CITRUS) program at the University of Hawaii. CITRUS is a research opportunity in a REU-style immersion to develop skills in CyberInfrastructure with a climate-based research project. The program entailed learning and developing data science skills which would then be applied as each mentee carried out their own research project surrounding a topic and data set of their choosing.
@@ -25,8 +25,8 @@ My topic focused on the intermingling of health and climate which led me towards
 # Average Cases per Week and Year
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/CITRUS/avg-case-week.png" class="img-thumbnail" >
-  <img width="400px" src="../img/CITRUS/avg-case-per-year.png" class="img-thumbnail" >
+  <img width="500px" src="../img/CITRUS/avg-case-week.png" class="img-thumbnail" >
+  <img width="500px" src="../img/CITRUS/avg-case-per-year.png" class="img-thumbnail" >
 </div>
 
 One of my first steps of analysis was looking at the average cases per week across all the years I was looking at. I did this with the goal of wanting to answer the question of if generally there were patterns in the timing and intensity of Influenza A throughout the year. I took the mean as my measurement for this because I figure it is a good frame of reference when finding seasonality detection and intensity patterns. As you can see from the graph on the left, the blue line shows the average influenza rate for the corresponding week and the red line shows the average specimens processed for that week as a gauge of the sample size these results were gathered from. Visually we can see there does seem to be a pattern when it comes to intensity of the number of cases. There is a spike in cases during the earlier weeks and later weeks of the year, and dropping drastically for the middle weeks of the year, showing that influenza cases seem to be larger around the winter months.
@@ -36,8 +36,8 @@ Another thing that I graphed for analysis is the Average cases of influenza per 
 # Hypothesis Testing, Scatterplot, and Correlation Coefficient
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/CITRUS/kw.png" class="img-thumbnail" >
-  <img width="400px" src="../img/CITRUS/cc.png" class="img-thumbnail" >
+  <img width="500px" src="../img/CITRUS/kw.png" class="img-thumbnail" >
+  <img width="500px" src="../img/CITRUS/cc.png" class="img-thumbnail" >
 </div> 
 
 The first test I ran was to do hypothesis testing in the year 2022. The hypothesis I was testing was “Influenza cases in 2022 are similar to influenza cases in other years”. I ran a Kruskal-Wallis Test since I thought it may be the best fit test based on my understanding of it. Since I am comparing one year, 2022, to multiple other years and the data is not normally distributed, this test can handle multiple groups and can work without the assumption of normality. The results I got after running the test is to reject the null hypothesis, meaning there is a significant difference in the influenza cases in 2022 compared to other years. After that was confirmed I ran a Chi-squared test to test the hypothesis, “There is no significant association between the year and the proportion of positive influenza cases” because I was curious to see if the reason of the spike had anything to do with because a larger sample was taken of people so more cases came out positive. The reason I choose a chi-squared test for independence is because from my understanding, it can test if there is a significant association between the year and the proportion of positive influenza cases. The Chi-squared test lets us figure out if there is a statistically significant association between the year and the proportion of positive influenza cases which helps assess whether the spike in 2022 can be due to a larger number of specimens processed or if there is another factor. The result is to reject the null hypothesis, meaning there is a significant association between the year and the proportion of positive influenza cases. A similar test was run for 2009, concluding the same results.
