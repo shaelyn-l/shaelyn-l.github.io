@@ -4,7 +4,7 @@ type: essay
 title: "Where I Came From, Where I’m Going"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-04
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
