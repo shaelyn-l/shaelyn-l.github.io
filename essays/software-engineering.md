@@ -11,8 +11,6 @@ labels:
   - Coding Standards
 ---
 
-<img width="500px" src="../img/software-engineering.jpg">
-
 Throughout this Software Engineering course, I have gained many valuable skills as the weeks progressed. From learning new technical skills tied to an unfamiliar tech stack to grasping broader concepts applicable across various fields in computer science, the class has provided a well-rounded experience. While I don’t envision myself working on web applications in my career, as I am more drawn to data-driven applications, I can still see how the topics covered in this course can be adapted and applied to different scenarios. Specifically, the concepts of Agile Project Management, Ethics in Software Engineering, and Coding Standards stand out as lessons I intend to carry forward.
 
 # Agile Project Management
