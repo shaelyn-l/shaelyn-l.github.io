@@ -17,6 +17,10 @@ labels:
 summary: "Aloha Archives was developed as a competition entry to the 2024 Hawaiʻi Annual Code Challenge and ICS 314 final project."
 ---
 
+To view the project home page, click [**here**](https://aloha-archives.github.io/).
+
+To check out the project deployment, click [**here**](https://aloha-archives.vercel.app/).
+
 # All About Aloha Archives
 
 ## How did it Begin?
