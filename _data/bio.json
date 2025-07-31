@@ -7,7 +7,7 @@
     "phone": " ",
     "website": "https://shaelyn-l.github.io",
     "summary": "Aloha! My name is Shaelyn Loo and I am a student in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I am studying to get a B.S. in Computer Science on the Data Science Track and am expect to graduate in Spring, 2026.",
-    "location": { "address": " ", "postalCode": " ", "city": " ", "countryCode": " ", "region": " " },
+    "location": { "address": " a", "postalCode": "a ", "city": " a", "countryCode": " a", "region": " a" },
     "profiles": [
       { "network": "github", "username": "shaelyn-l", "url": "https://shaelyn-l.github.io" },
       { "network": "linkedin", "username": "shaelyn-loo", "url": "https://www.linkedin.com/in/shaelyn-loo-411757261/" }
